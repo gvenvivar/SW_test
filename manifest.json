@@ -1,0 +1,30 @@
+{
+  "short_name": "WA",
+  "name": "WoW_Auc",
+  "icons": [
+    {
+      "src": "app_icon.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "app_icon.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "app_icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "app_icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#0A355F",
+  "display": "standalone",
+  "theme_color": "#0A355F"
+}
